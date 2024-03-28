@@ -1,0 +1,151 @@
+{
+    "sources": [
+        {
+            "DOI": "10.4067/s0718-07051997000100007",
+            "author": [
+                {
+                    "family": "Jadue",
+                    "given": "Gladys"
+                },
+                {
+                    "family": "Gladys Jadue"
+                }
+            ],
+            "id": "jadue1997",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997
+                    ]
+                ]
+            },
+            "note": "DOI: 10.4067/s0718-07051997000100007 MAG ID: 2937053168 S2ID: 85c5a6941dc943aed459e71ba82da8720533e00c",
+            "title": "Factores ambientales que afectan el rendimiento escolar de los ninos provenientes de familias de bajo nivel socioeconomico y cultural",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.35362/rie6041288",
+            "author": [
+                {
+                    "family": "Óscar Espinoza"
+                },
+                {
+                    "family": "Oscar Espinoza"
+                },
+                {
+                    "family": "Espinoza",
+                    "given": "Oscar"
+                },
+                {
+                    "family": "Dante Castillo"
+                },
+                {
+                    "family": "Castillo",
+                    "given": "Dante"
+                },
+                {
+                    "family": "Luis Eduardo González"
+                },
+                {
+                    "family": "González",
+                    "given": "Luis Eduardo"
+                },
+                {
+                    "family": "Javier Loyola"
+                },
+                {
+                    "family": "Loyola",
+                    "given": "Javier"
+                }
+            ],
+            "id": "óscarespinoza2012",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        12,
+                        15
+                    ]
+                ]
+            },
+            "note": "DOI: 10.35362/rie6041288 MAG ID: 2613984136 S2ID: bbc0da5257a677e7eca7a1f4a4627f6fd5967109",
+            "page": "5-5",
+            "title": "Estudiantes vulnerables y sus itinerarios educativos en el sistema escolar municipal en chile",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "DOI": "10.15765/pdv.v10i15.1230",
+            "author": [
+                {
+                    "family": "María Claudia Cuellar Llano"
+                },
+                {
+                    "family": "Llano",
+                    "given": "María Claudia Cuellar"
+                },
+                {
+                    "family": "Camila Andrea Cuellar Yaguara"
+                },
+                {
+                    "family": "Yaguara",
+                    "given": "Camila Andrea Cuellar"
+                }
+            ],
+            "container-title": "PUNTO DE VISTA",
+            "id": "maríaclaudiacuellarllano2019",
+            "issue": "15",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        5
+                    ]
+                ]
+            },
+            "note": "DOI: 10.15765/pdv.v10i15.1230 MAG ID: 2950289476 S2ID: 6a021cf65dce64cc5345e9440d4bc9febc1b312d",
+            "page": "10",
+            "title": "La desigualdad socioeconómica en chile y colombia: Una aproximación a los factores de crecimiento y las oportunidades de mejora",
+            "title-short": "La desigualdad socioeconómica en chile y colombia",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "family": "Orlando Mella"
+                },
+                {
+                    "family": "Mella",
+                    "given": "Orlando"
+                },
+                {
+                    "family": "Iván Ortiz"
+                },
+                {
+                    "family": "Ortiz",
+                    "given": "Iván"
+                }
+            ],
+            "id": "orlandomella1999",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "note": "MAG ID: 165184264",
+            "page": "69-92",
+            "title": "Rendimiento escolar. Influencias diferenciales de factores externos e internos",
+            "type": "article-journal",
+            "volume": "29"
+        }
+    ],
+    "project_biblios": []
+}
